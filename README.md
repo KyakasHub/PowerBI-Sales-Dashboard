@@ -3,7 +3,7 @@
 ![Dashboard Preview](Sales_Dashboard.png)
 
 ## 🧾 Overview
-This project presents a **Sales Performance Dashboard** built using Power BI to analyze key business metrics and trends.
+This project presents a **Sales Performance Dashboard** built using Power BI to analyze key business metrics and trends for a hypothetical multinational company in USA, Canada, Mexcixo, France and Germany.
 
 The dashboard provides a clear and interactive view of performance across sales, profit, production, and units sold.
 
@@ -11,7 +11,7 @@ The dashboard provides a clear and interactive view of performance across sales,
 
 ## 🎯 Objectives
 - Track overall business performance
-- Compare **Sales vs Profit**
+- Compare **Sales vs Profit per country**
 - Analyze **monthly trends in units sold**
 - Provide a clean and intuitive interface for decision-making
 
@@ -26,8 +26,8 @@ The dashboard provides a clear and interactive view of performance across sales,
 ---
 
 ## 💡 Insights
-- Sales significantly exceed profit, indicating potential margin optimization opportunities  
-- Units sold show noticeable fluctuations, suggesting seasonal demand patterns  
+- Sales significantly exceed profit, indicating potential optimization opportunities
+- Units sold show noticeable fluctuations, suggesting seasonal demand patterns. 
 - KPI tracking allows quick performance monitoring across key metrics  
 
 ---
